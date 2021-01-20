@@ -3,4 +3,5 @@
 void main()
 {
 	count<<"µÚÒ»Ìì"<<enl; 
+	count<<two day<<enl;
  } 
